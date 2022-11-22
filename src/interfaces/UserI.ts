@@ -3,7 +3,3 @@ export interface UserI {
     password: string,
     idType: string
 }
-export interface CredentialsI {
-    id: string,
-    password: string
-}
